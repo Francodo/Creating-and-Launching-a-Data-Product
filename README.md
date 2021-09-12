@@ -1,4 +1,4 @@
-# Machine-Learning-Artificial-IntelIigence
+# Creating and Launching a Data Product
 Machine Learning and Artificial Intelligence projects
 
 Francis Odo
